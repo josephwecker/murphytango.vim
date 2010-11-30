@@ -228,8 +228,6 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     call <SID>X("IncSearch",      "eeeeec", "729fcf", "")
     call <SID>X("StatusLine",     "000000", "4e9a06", "bold")
     call <SID>X("StatusLineNC",   "333333", "4e9a06", "")
-    "call <SID>X("StatusLine",     "eeeeec", "3465a4", "bold")
-    "call <SID>X("StatusLineNC",   "d3d7df", "3465a4", "")
     call <SID>X("VertSplit",      "eeeeec", "eeeeec", "")
     call <SID>X("Folded",         "eeeeec", "65801a", "")
     call <SID>X("FoldColumn",     "eeeeec", "87ab23", "")
@@ -251,11 +249,11 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     call <SID>X("Function",       "68cd08", "",       "")
 
     call <SID>X("Statement",      "5ff50b", "",       "")
-    call <SID>X("Conditional",    "72f9cf", "",       "")
-    call <SID>X("Repeat",         "34e2e2", "",       "")
-    call <SID>X("Label",          "06989a", "",       "underline")
-    call <SID>X("Operator",       "3465a4", "",       "none")
-    call <SID>X("Keyword",        "729fcf", "",       "")
+    call <SID>X("Conditional",    "72f9bf", "",       "")
+    call <SID>X("Repeat",         "34e2d2", "",       "")
+    call <SID>X("Label",          "06988a", "",       "underline")
+    call <SID>X("Operator",       "346594", "",       "none")
+    call <SID>X("Keyword",        "729fbf", "",       "")
 
     call <SID>X("Exception",      "ff6801", "",       "")
 
@@ -272,10 +270,10 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     "call <SID>X("Macro",          "9265cb", "",       "")
     "call <SID>X("PreCondit",      "7423db", "",       "")
 
-    call <SID>X("Type",           "72f9cf", "",       "bold")
-    call <SID>X("StorageClass",   "34e2e2", "",       "bold")
-    call <SID>X("Structure",      "06989a", "",       "bold")
-    call <SID>X("Typedef",        "729fcf", "",       "none")
+    call <SID>X("Type",           "72f9ef", "",       "none")
+    call <SID>X("StorageClass",   "34e2ff", "",       "none")
+    call <SID>X("Structure",      "0698ba", "",       "none")
+    call <SID>X("Typedef",        "729fef", "",       "none")
 
     call <SID>X("Special",        "5eaa96", "",       "")
     call <SID>X("SpecialChar",    "eebbb9", "",       "")
