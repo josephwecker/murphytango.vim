@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="tango-ish-colors.svg">
+   sodipodi:docname=".tangoish_colors.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -33,16 +33,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35460993"
-     inkscape:cx="-191.98267"
+     inkscape:cx="-84.82267"
      inkscape:cy="-926.33359"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="752"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1080"
+     inkscape:window-height="1873"
+     inkscape:window-x="1679"
+     inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -907,5 +907,25 @@
          x="-250.81998"
          id="tspan3978"
          sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3753"
+       y="2819.1721"
+       x="344.20001"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#65801a;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2819.1721"
+         x="344.20001"
+         id="tspan3755"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#87ab23;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="344.20001"
+       y="2892.4922"
+       id="text3757"><tspan
+         sodipodi:role="line"
+         id="tspan3759"
+         x="344.20001"
+         y="2892.4922">BLAH BLAH BLAH</tspan></text>
   </g>
 </svg>
