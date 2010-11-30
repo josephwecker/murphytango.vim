@@ -1,0 +1,10 @@
+Based on:
+
+* Murphy http://ftp.tw.vim.org/pub/vim/runtime/dos/colors/murphy.vim
+
+* Tango http://www.vim.org/scripts/script.php?script_id=1686
+
+* And uses the cool 256/80 color functions from Desert256 http://www.vim.org/scripts/script.php?script_id=1243
+
+Made by special request, but also so eventually I can come to a more unified
+theory of syntax highlighting...
