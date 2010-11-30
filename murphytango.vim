@@ -247,7 +247,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     call <SID>X("Boolean",        "c4a000", "",       "")
     call <SID>X("Float",          "8aae23", "",       "")
 
-    call <SID>X("Identifier",     "3465a4", "",       "")
+    call <SID>X("Identifier",     "7495a4", "",       "")
     call <SID>X("Function",       "68cd08", "",       "")
 
     call <SID>X("Statement",      "5ff50b", "",       "")
@@ -272,13 +272,13 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     "call <SID>X("Macro",          "9265cb", "",       "")
     "call <SID>X("PreCondit",      "7423db", "",       "")
 
-    call <SID>X("Type",           "72f9cf", "",       "")
-    call <SID>X("StorageClass",   "34e2e2", "",       "")
-    call <SID>X("Structure",      "06989a", "",       "")
-    call <SID>X("Typedef",        "729fcf", "",       "")
+    call <SID>X("Type",           "72f9cf", "",       "bold")
+    call <SID>X("StorageClass",   "34e2e2", "",       "bold")
+    call <SID>X("Structure",      "06989a", "",       "bold")
+    call <SID>X("Typedef",        "729fcf", "",       "none")
 
     call <SID>X("Special",        "5eaa96", "",       "")
-    call <SID>X("SpecialChar",    "f03535", "",       "")
+    call <SID>X("SpecialChar",    "eebbb9", "",       "")
     call <SID>X("Tag",            "9265cb", "",       "underline")
     call <SID>X("Delimiter",      "656763", "",       "none")
 
