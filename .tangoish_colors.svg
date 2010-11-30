@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="tango-ish-colors.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35460993"
+     inkscape:cx="-191.98267"
+     inkscape:cy="-926.33359"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="360.36218"
+       id="text2816"><tspan
+         sodipodi:role="line"
+         id="tspan2818"
+         x="-124"
+         y="360.36218">Normal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="407.82886"
+       id="text2820"><tspan
+         sodipodi:role="line"
+         id="tspan2822"
+         x="-124"
+         y="407.82886">NonText</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="455.2955"
+       id="text2824"><tspan
+         sodipodi:role="line"
+         id="tspan2826"
+         x="-124"
+         y="455.2955">Cursor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="502.76218"
+       id="text2828"><tspan
+         sodipodi:role="line"
+         id="tspan2830"
+         x="-124"
+         y="502.76218">lCursor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="550.22882"
+       id="text2832"><tspan
+         sodipodi:role="line"
+         id="tspan2834"
+         x="-124"
+         y="550.22882">Search</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="597.6955"
+       id="text2836"><tspan
+         sodipodi:role="line"
+         id="tspan2838"
+         x="-124"
+         y="597.6955">IncSearch</tspan></text>
+    <rect
+       y="521.36218"
+       x="1061"
+       height="89"
+       width="322"
+       id="rect2842"
+       style="fill:#7a7359;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="645.16217"
+       id="text2844"><tspan
+         sodipodi:role="line"
+         id="tspan2846"
+         x="-124"
+         y="645.16217">StatusLine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="692.62885"
+       id="text2848"><tspan
+         sodipodi:role="line"
+         id="tspan2850"
+         x="-124"
+         y="692.62885">StatusLineNC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="740.09552"
+       id="text2852"><tspan
+         sodipodi:role="line"
+         id="tspan2854"
+         x="-124"
+         y="740.09552">VertSplit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="787.56219"
+       id="text2856"><tspan
+         sodipodi:role="line"
+         id="tspan2858"
+         x="-124"
+         y="787.56219">Folded</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="835.02887"
+       id="text2860"><tspan
+         sodipodi:role="line"
+         id="tspan2862"
+         x="-124"
+         y="835.02887">Visual</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="882.49554"
+       id="text2864"><tspan
+         sodipodi:role="line"
+         id="tspan2866"
+         x="-124"
+         y="882.49554">Title</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="929.96216"
+       id="text2868"><tspan
+         sodipodi:role="line"
+         id="tspan2870"
+         x="-124"
+         y="929.96216">DiffAdd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="977.42883"
+       id="text2872"><tspan
+         sodipodi:role="line"
+         id="tspan2874"
+         x="-124"
+         y="977.42883">DiffChange</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="1024.8955"
+       id="text2876"><tspan
+         sodipodi:role="line"
+         id="tspan2878"
+         x="-124"
+         y="1024.8955">DiffDelete</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-124"
+       y="1072.3622"
+       id="text2880"><tspan
+         sodipodi:role="line"
+         id="tspan2882"
+         x="-124"
+         y="1072.3622">DiffText</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="190"
+       y="360.36218"
+       id="text2884"><tspan
+         sodipodi:role="line"
+         id="tspan2886"
+         x="190"
+         y="360.36218">Comment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="190"
+       y="405.02884"
+       id="text2888"><tspan
+         sodipodi:role="line"
+         id="tspan2890"
+         x="190"
+         y="405.02884">Constant</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="190"
+       y="449.69553"
+       id="text2892"><tspan
+         sodipodi:role="line"
+         id="tspan2894"
+         x="190"
+         y="449.69553">String</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="190"
+       y="494.36218"
+       id="text2896"><tspan
+         sodipodi:role="line"
+         id="tspan2898"
+         x="190"
+         y="494.36218">Character</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="190"
+       y="539.02887"
+       id="text2900"><tspan
+         sodipodi:role="line"
+         id="tspan2902"
+         x="190"
+         y="539.02887">Number</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="190"
+       y="583.6955"
+       id="text2904"><tspan
+         sodipodi:role="line"
+         id="tspan2906"
+         x="190"
+         y="583.6955">Boolean</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="190"
+       y="628.36218"
+       id="text2908"><tspan
+         sodipodi:role="line"
+         id="tspan2910"
+         x="190"
+         y="628.36218">Float</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="220"
+       y="682.36218"
+       id="text2912"><tspan
+         sodipodi:role="line"
+         id="tspan2914"
+         x="220"
+         y="682.36218">Identifier</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="220"
+       y="734.36218"
+       id="text2916"><tspan
+         sodipodi:role="line"
+         id="tspan2918"
+         x="220"
+         y="734.36218">Function</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="186"
+       y="838.36218"
+       id="text2920"><tspan
+         sodipodi:role="line"
+         id="tspan2922"
+         x="186"
+         y="838.36218">Statement</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="186"
+       y="884.36218"
+       id="text2924"><tspan
+         sodipodi:role="line"
+         id="tspan2926"
+         x="186"
+         y="884.36218">Conditional</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="186"
+       y="930.36218"
+       id="text2928"><tspan
+         sodipodi:role="line"
+         id="tspan2930"
+         x="186"
+         y="930.36218">Repeat</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="186"
+       y="976.36218"
+       id="text2932"><tspan
+         sodipodi:role="line"
+         id="tspan2934"
+         x="186"
+         y="976.36218">Label</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="186"
+       y="1022.3622"
+       id="text2936"><tspan
+         sodipodi:role="line"
+         id="tspan2938"
+         x="186"
+         y="1022.3622">Operator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="186"
+       y="1068.3622"
+       id="text2940"><tspan
+         sodipodi:role="line"
+         id="tspan2942"
+         x="186"
+         y="1068.3622">Keyword</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="186"
+       y="1114.3622"
+       id="text2944"><tspan
+         sodipodi:role="line"
+         id="tspan2946"
+         x="186"
+         y="1114.3622">Exception</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="194"
+       y="1242.3622"
+       id="text2948"><tspan
+         sodipodi:role="line"
+         id="tspan2950"
+         x="194"
+         y="1242.3622">PreProc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="194"
+       y="1286.8622"
+       id="text2952"><tspan
+         sodipodi:role="line"
+         id="tspan2954"
+         x="194"
+         y="1286.8622">Include</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="194"
+       y="1331.3622"
+       id="text2956"><tspan
+         sodipodi:role="line"
+         id="tspan2958"
+         x="194"
+         y="1331.3622">Define</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="194"
+       y="1375.8622"
+       id="text2960"><tspan
+         sodipodi:role="line"
+         id="tspan2962"
+         x="194"
+         y="1375.8622">Macro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="194"
+       y="1420.3622"
+       id="text2964"><tspan
+         sodipodi:role="line"
+         id="tspan2966"
+         x="194"
+         y="1420.3622">PreCondit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="596"
+       y="390.36218"
+       id="text2968"><tspan
+         sodipodi:role="line"
+         id="tspan2970"
+         x="596"
+         y="390.36218">Type</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="596"
+       y="436.36218"
+       id="text2972"><tspan
+         sodipodi:role="line"
+         id="tspan2974"
+         x="596"
+         y="436.36218">StorageClass</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="596"
+       y="482.36218"
+       id="text2976"><tspan
+         sodipodi:role="line"
+         id="tspan2978"
+         x="596"
+         y="482.36218">Structure</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="596"
+       y="528.36218"
+       id="text2980"><tspan
+         sodipodi:role="line"
+         id="tspan2982"
+         x="596"
+         y="528.36218">Typedef</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="632"
+       y="656.36218"
+       id="text2984"><tspan
+         sodipodi:role="line"
+         id="tspan2986"
+         x="632"
+         y="656.36218">Special</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="632"
+       y="719.56219"
+       id="text2988"><tspan
+         sodipodi:role="line"
+         id="tspan2990"
+         x="632"
+         y="719.56219">SpecialChar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="632"
+       y="782.76221"
+       id="text2992"><tspan
+         sodipodi:role="line"
+         id="tspan2994"
+         x="632"
+         y="782.76221">Tag</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="632"
+       y="845.96216"
+       id="text2996"><tspan
+         sodipodi:role="line"
+         id="tspan2998"
+         x="632"
+         y="845.96216">Delimiter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="632"
+       y="909.16217"
+       id="text3000"><tspan
+         sodipodi:role="line"
+         id="tspan3002"
+         x="632"
+         y="909.16217">SpecialComment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="632"
+       y="972.36218"
+       id="text3004"><tspan
+         sodipodi:role="line"
+         id="tspan3006"
+         x="632"
+         y="972.36218">Debug</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="612"
+       y="1090.3622"
+       id="text3008"><tspan
+         sodipodi:role="line"
+         id="tspan3010"
+         x="612"
+         y="1090.3622">Underlined</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="612"
+       y="1148.3622"
+       id="text3012"><tspan
+         sodipodi:role="line"
+         id="tspan3014"
+         x="612"
+         y="1148.3622">Ignore</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="612"
+       y="1206.3622"
+       id="text3016"><tspan
+         sodipodi:role="line"
+         id="tspan3018"
+         x="612"
+         y="1206.3622">Error</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="612"
+       y="1264.3622"
+       id="text3020"><tspan
+         sodipodi:role="line"
+         id="tspan3022"
+         x="612"
+         y="1264.3622">Todo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="352.66"
+       y="1802.1621"
+       id="text3796"><tspan
+         sodipodi:role="line"
+         id="tspan3798"
+         x="352.66"
+         y="1802.1621">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3800"
+       y="1859.3322"
+       x="778.47998"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ac0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="1859.3322"
+         x="778.47998"
+         id="tspan3802"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="143.98"
+       y="2488.9622"
+       id="text3804"><tspan
+         sodipodi:role="line"
+         id="tspan3806"
+         x="143.98"
+         y="2488.9622">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3808"
+       y="2312.0723"
+       x="135.52"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#c4a000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2312.0723"
+         x="135.52"
+         id="tspan3810"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-197.24002"
+       y="1678.3422"
+       id="text3812"><tspan
+         sodipodi:role="line"
+         id="tspan3814"
+         x="-197.24002"
+         y="1678.3422">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3816"
+       y="1887.7921"
+       x="-699.19995"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#75507b;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="1887.7921"
+         x="-699.19995"
+         id="tspan3818"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#06989a;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-188.78"
+       y="1803.9623"
+       id="text3820"><tspan
+         sodipodi:role="line"
+         id="tspan3822"
+         x="-188.78"
+         y="1803.9623">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3824"
+       y="1870.3622"
+       x="355.48001"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#555753;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="1870.3622"
+         x="355.48001"
+         id="tspan3826"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#aeb7a7;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="358.30002"
+       y="1940.0922"
+       id="text3828"><tspan
+         sodipodi:role="line"
+         id="tspan3830"
+         x="358.30002"
+         y="1940.0922">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3832"
+       y="1916.0022"
+       x="778.47998"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#f03535;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="1916.0022"
+         x="778.47998"
+         id="tspan3834"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#8aae23;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="141.16"
+       y="2396.1721"
+       id="text3836"><tspan
+         sodipodi:role="line"
+         id="tspan3838"
+         x="141.16"
+         y="2396.1721">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3840"
+       y="1799.1022"
+       x="778.47998"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#8a2e34;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="1799.1022"
+         x="778.47998"
+         id="tspan3842"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#fce94f;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="129.88"
+       y="2214.4121"
+       id="text3844"><tspan
+         sodipodi:role="line"
+         id="tspan3846"
+         x="129.88"
+         y="2214.4121">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3848"
+       y="1732.9623"
+       x="-197.24002"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#729fcf;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="1732.9623"
+         x="-197.24002"
+         id="tspan3850"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3856"
+       y="1960.1022"
+       x="-171.86002"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#72f9cf;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="1960.1022"
+         x="-171.86002"
+         id="tspan3858"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ad7fa8;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-707.65997"
+       y="1953.1821"
+       id="text3860"><tspan
+         sodipodi:role="line"
+         id="tspan3862"
+         x="-707.65997"
+         y="1953.1821">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3864"
+       y="2135.7122"
+       x="-738.67999"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#7423db;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2135.7122"
+         x="-738.67999"
+         id="tspan3866"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3872"
+       y="2016.6222"
+       x="355.48001"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2016.6222"
+         x="355.48001"
+         id="tspan3874"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#34e2e2;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-183.13998"
+       y="1880.4921"
+       id="text3876"><tspan
+         sodipodi:role="line"
+         id="tspan3878"
+         x="-183.13998"
+         y="1880.4921">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3880"
+       y="2562.2822"
+       x="143.98"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#68cd08;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2562.2822"
+         x="143.98"
+         id="tspan3882"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#5ff50b;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="143.98"
+       y="2627.1423"
+       id="text3884"><tspan
+         sodipodi:role="line"
+         id="tspan3886"
+         x="143.98"
+         y="2627.1423">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ff6801;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="778.47998"
+       y="1992.1422"
+       id="text3888"><tspan
+         sodipodi:role="line"
+         id="tspan3890"
+         x="778.47998"
+         y="1992.1422">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#9265cb;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-721.75995"
+       y="2073.6721"
+       id="text3892"><tspan
+         sodipodi:role="line"
+         id="tspan3894"
+         x="-721.75995"
+         y="2073.6721">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3896"
+       y="2008.8121"
+       x="-713.29999"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#cb65c5;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2008.8121"
+         x="-713.29999"
+         id="tspan3898"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#72f9cf;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-484.88"
+       y="2422.5823"
+       id="text3172"><tspan
+         sodipodi:role="line"
+         id="tspan3174"
+         x="-484.88"
+         y="2422.5823">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3176"
+       y="2535.8921"
+       x="-496.16"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#fce94f;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2535.8921"
+         x="-496.16"
+         id="tspan3178"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3952"
+       y="2549.4824"
+       x="544.41998"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#a2dc06;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2549.4824"
+         x="544.41998"
+         id="tspan3954"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#7b6550;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-1127.84"
+       y="1887.7921"
+       id="text3956"><tspan
+         sodipodi:role="line"
+         id="tspan3958"
+         x="-1127.84"
+         y="1887.7921">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3960"
+       y="1953.1821"
+       x="-1136.2999"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ad967f;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="1953.1821"
+         x="-1136.2999"
+         id="tspan3962"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#99693b;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-1167.3199"
+       y="2135.7122"
+       id="text3964"><tspan
+         sodipodi:role="line"
+         id="tspan3966"
+         x="-1167.3199"
+         y="2135.7122">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3968"
+       y="2073.6721"
+       x="-1150.3999"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#cb7465;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2073.6721"
+         x="-1150.3999"
+         id="tspan3970"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#cb9765;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-1141.9399"
+       y="2008.8121"
+       id="text3972"><tspan
+         sodipodi:role="line"
+         id="tspan3974"
+         x="-1141.9399"
+         y="2008.8121">BLAH BLAH BLAH</tspan></text>
+    <text
+       id="text3976"
+       y="2058.1521"
+       x="-250.81998"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#7ba9a9;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2058.1521"
+         x="-250.81998"
+         id="tspan3978"
+         sodipodi:role="line">BLAH BLAH BLAH</tspan></text>
+  </g>
+</svg>
