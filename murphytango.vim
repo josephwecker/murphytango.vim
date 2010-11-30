@@ -226,14 +226,15 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     "ICursor
     call <SID>X("Search",         "eeeeec", "c4a000", "")
     call <SID>X("IncSearch",      "eeeeec", "729fcf", "")
-    call <SID>X("StatusLine",     "eeeeec", "3465a4", "bold")
-    call <SID>X("StatusLineNC",   "d3d7df", "3465a4", "")
+    call <SID>X("StatusLine",     "000000", "4e9a06", "bold")
+    call <SID>X("StatusLineNC",   "333333", "4e9a06", "")
+    "call <SID>X("StatusLine",     "eeeeec", "3465a4", "bold")
+    "call <SID>X("StatusLineNC",   "d3d7df", "3465a4", "")
     call <SID>X("VertSplit",      "eeeeec", "eeeeec", "")
-    call <SID>X("Folded",         "eeeeec", "75507b", "")
-    call <SID>X("FoldColumn",     "eeeeec", "7229cf", "")
-    call <SID>X("Visual",         "d3d7cf", "4e9a06", "")
+    call <SID>X("Folded",         "eeeeec", "65801a", "")
+    call <SID>X("FoldColumn",     "eeeeec", "87ab23", "")
     call <SID>X("Title",          "ffffff", "111111", "bold")
-    call <SID>X("LineNr",         "2e3436", "000000", "")
+    call <SID>X("LineNr",         "222222", "000000", "")
 
     call <SID>X("Comment",        "555753", "111111", "")
     call <SID>X("SpecialComment", "557753", "",       "")
@@ -355,13 +356,10 @@ endif
 
 " Not sure these will work correctly with X(), though I haven't tried very
 " hard.
-hi DiffAdd      guifg=fg      guibg=#3465a4    gui=none
-hi DiffAdd      ctermfg=gray  ctermbg=blue     cterm=none
-hi DiffChange   guifg=fg      guibg=#555753    gui=none
-hi DiffChange   ctermfg=gray  ctermbg=darkgray cterm=none
-hi DiffDelete   guibg=bg
-hi DiffDelete   ctermfg=gray  ctermbg=none     cterm=none
-hi DiffText     guifg=fg      guibg=#c4a000    gui=none
-hi DiffText     ctermfg=gray  ctermbg=yellow   cterm=none
+hi DiffAdd      guibg=#143574 gui=none ctermbg=darkblue   cterm=none
+hi DiffChange   guibg=#555753 gui=none ctermbg=darkgray   cterm=none
+hi DiffDelete   guifg=#442222 guibg=bg ctermbg=none       cterm=none
+hi DiffText     guibg=#a49000 gui=none ctermbg=darkyellow cterm=none
+hi Visual       guibg=#333333          ctermbg=darkgray cterm=none
 
 " vim: set fdl=0 fdm=marker:
