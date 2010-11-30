@@ -8,3 +8,5 @@ Based on:
 
 Made by special request, but also so eventually I can come to a more unified
 theory of syntax highlighting...
+
+If you want it to look good in a terminal, make sure and do the following: http://vim.wikia.com/wiki/256_colors_in_vim
