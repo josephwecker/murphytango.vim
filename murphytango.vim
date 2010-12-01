@@ -253,7 +253,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     call <SID>X("Repeat",         "34e2d2", "",       "")
     call <SID>X("Label",          "06988a", "",       "underline")
     call <SID>X("Operator",       "346594", "",       "none")
-    call <SID>X("Keyword",        "729fbf", "",       "")
+    call <SID>X("Keyword",        "b29fbf", "",       "")
 
     call <SID>X("Exception",      "ff6801", "",       "")
 
