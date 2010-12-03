@@ -277,7 +277,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
 
     call <SID>X("Special",        "5eaa96", "",       "")
     call <SID>X("SpecialChar",    "eebbb9", "",       "")
-    call <SID>X("Tag",            "9265cb", "",       "underline")
+    call <SID>X("Tag",            "5495b4", "",       "underline")
     call <SID>X("Delimiter",      "656763", "",       "none")
 
     call <SID>X("Debug",          "78dd08", "333300", "")
